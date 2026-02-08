@@ -1,4 +1,4 @@
-{
+﻿{
 	"Version": 3,
 	"FileReferences": {
 		"Moc": "shizuku.moc3",
@@ -30,7 +30,13 @@
 			],
 			"Idle": [
 				{
-					"File": "motion/04.motion3.json"
+					"File": "motion/01.motion3.json"
+				},
+				{
+					"File": "motion/02.motion3.json"
+				},
+				{
+					"File": "motion/03.motion3.json"
 				}
 			]
 		}
